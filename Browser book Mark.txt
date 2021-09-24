@@ -1,0 +1,24 @@
+/*==========================================
+    Web Development Sourse 
+============================================*/
+
+FlatuiColor Link : https://flatuicolors.com/
+
+Unicode-Latin link : https://unicode-table.com/en/
+
+Font Style link : https://developer.mozilla.org/en-US/docs/Web/CSS/font-family
+
+bxSlider link : https://bxslider.com/
+
+Unsplash link : https://unsplash.com/
+
+Pixle link : https://www.pexels.com/search/work/
+
+iconefinder link : https://www.iconfinder.com/
+
+Netlifly link : https://app.netlify.com/teams/rakibulhasan315/overview
+
+URI online judge link : https://www.urionlinejudge.com.br/judge/en/login?redirect=%2Fen
+
+GitHub link : https://github.com/
+
